@@ -1,6 +1,8 @@
 # Loading Screen Gold: A Tip in 200 Characters
 
-[![make.fun](https://make.fun/api/competitions/u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270/badge)](https://make.fun/competitions/u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270)
+[![make.fun](https://make.fun/badge/u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270.svg)](https://make.fun/bounty/u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270)
+[![rank](https://make.fun/badge/u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270/danzzkeceh4-bit/makefun-u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270/rank.svg)](https://make.fun/bounty/u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270)
+[![reward](https://make.fun/badge/u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270/danzzkeceh4-bit/makefun-u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270/reward.svg)](https://make.fun/bounty/u-ricoxyz-loading-screen-gold-a-tip-in-200-characters-2b1df270)
 
 Entry for the [make.fun](https://make.fun) competition
 **"Loading Screen Gold: A Tip in 200 Characters"**
