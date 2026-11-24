@@ -3,9 +3,16 @@
 
 Writes the exact 154-character loading-screen tip to /output/entry.txt
 (no trailing newline), then reads it back and asserts it matches.
+
+Gate: the file must be UTF-8, 1-200 characters, and not whitespace-only.
+The tip is written as-is — no trailing newline — so the byte count
+matches the character count exactly.
 """
 
 ENTRY = (
+    # The tip must land in 1-200 characters: short enough to read at a
+    # glance on a loading screen, long enough for the double punchline
+    # ("go for a walk" + "delete the wrong file faster"). 154 chars.
     'Tip: if your agent has been "almost done" for 40 minutes, '
     "it is not almost done. Go for a walk. "
     "It will delete the wrong file faster without you watching."
